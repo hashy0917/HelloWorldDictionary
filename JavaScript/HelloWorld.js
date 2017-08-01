@@ -1,0 +1,1 @@
+docment.write("HelloWorld!");
