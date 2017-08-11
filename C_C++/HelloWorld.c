@@ -1,5 +1,5 @@
-#include<stdioh>
-int main (void){
+#include<stdio.h>
+int main (){
 	printf("HelloWorld!\n");
 	rerutn 0;
 }
