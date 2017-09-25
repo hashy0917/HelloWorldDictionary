@@ -6,5 +6,10 @@ class ViewController: UIViewController {
         println("HelloWorld!")
         super.viewDidLoad()
     }
-}
 
+    // ???
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+    }
+}
